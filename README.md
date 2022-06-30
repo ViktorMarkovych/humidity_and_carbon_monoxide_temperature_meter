@@ -15,3 +15,6 @@ Features:
  - Humidity measurement range: from 0 to 100% (accuracy 2-5%) 
  - Temperature measurement range: -40 to +80 °C (± 0.5 °C)
 
+ Photo of the finished device in the case 
+ photo\corps.jpg
+
